@@ -1,0 +1,20 @@
+.sandyfactsclass {
+  font-size: 500%;
+  background-color: #CA9EBA;
+  text-align:center;
+  font-family: courier;
+  border: 7px solid #FFF8D3;
+  color: #FFF8D3
+  
+}
+
+body {
+  background-color: #CA9EBA;
+  font-family: verdana;
+  text-align:center;
+}
+
+.loveyousandy {
+  border: 3px dotted #FFF8D3;
+  color: #FFF8D3;
+}
